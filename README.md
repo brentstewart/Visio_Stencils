@@ -1,6 +1,6 @@
 # Visio_Stencils
 
-This repository contains Visio Stencils.  
+This repository contains Visio Stencils and was described in https://www.nextpertise.net/visio_shapes/.  
 
 "Brent's Stencils" is a more traditional set of icons with some work put in to customize connection points.  The link lines have been modified to set the text angle to ATAN(Height/Width) which will cause text to angle with the line.
 
